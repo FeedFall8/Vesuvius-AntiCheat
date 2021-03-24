@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§4Vesuvius §cAntiCheat",
+        "name": "§4Vesuvius §cAntiCheat",
+        "uuid": "968532a0-4e7f-4f53-a42c-62dbe4a690fb"
+        "version": [1, 16, 210],
+        "min_engine_version": [1, 16, 210]
+},
+"modules": [
+    {
+        "description": "§l§3Made by §cBtw Utenn1",
+        "type": "data",
+        "uuid": "e8e5afb1-df74-4fda-98e9-b7a45d8ca1ca",
+        "version": [1, 9, 0]
+        }
+    ]
+}

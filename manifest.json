@@ -1,0 +1,30 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "test",
+		"name": "§4Vesuvius §cAntiCheat",
+		"uuid": "968532a0-4e7f-4f53-a42c-62dbe4a690fb",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			0,
+            0
+		]
+	},
+  "modules" : [
+    {
+      "version" : [
+        0,
+        0,
+        1
+      ],
+      "type" : "data",
+      "description" : "Made By: D4Rk Akuma",
+      "uuid" : "e8e5afb1-df74-4fda-98e9-b7a45d8ca1ca"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+    "file_path":"C:\\Users\\Akuma\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\AntiCheat\\manifest.json",
+    "file_type":"manifest_bp",
+    "format_version":1,
+    "file_uuid":"65cdd9cf-4ae3-4594-8d33-b5ef879be85b",
+    "file_version":0,
+    "cache_content":{
+        "children":[
+            {
+                "data":"2",
+                "key":"format_version"
+            },
+            {
+                "open":{
+                    "format_version":2,
+                    "header":
+                        "name":"Vesuvius AntiCheat",
+                        "description": "Made by Btw Utenn1",
+                        "uuid":"57e0eead-747a-49d3-be07-8281fd8494bd",
+                        "version":[
+                            1,
+                            3,
+                            0
+                        ],
+                        "min_engine_version":[
+                            1,
+                            13,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "key":"modules",
+                    "is_minified":true,
+                    "children":[
+                        {
+                            "type":"data",
+                            "uuid":"cb0d5974-4539-4b30-aa54-87d4b797830d",
+                            "version":[
+                                1,
+                                3,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+}
